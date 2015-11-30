@@ -1,0 +1,26 @@
+#name{
+        
+        display: flex;
+
+        
+    }
+    #name > img{
+       float: left; 
+       width: 2993px;
+       height: 200px;
+       margin: 5px 8px;
+    }
+    .ananya{
+  padding-right: 23px;
+  color: #747704;
+
+
+}
+.ananya1{
+  padding-right: 23px;
+  color: #747704;
+
+}
+.annu{
+  color: #747704;
+}
